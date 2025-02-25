@@ -14,6 +14,7 @@ git status
 Lab 2 Commands:
 
 git branch feature-branch
+
 git log
 
 git checkout feature-branch
